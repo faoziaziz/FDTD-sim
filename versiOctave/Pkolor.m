@@ -12,4 +12,4 @@ shading faceted;
 axis equal tight;
 
 camlight; lighting phong;
-view(25, 45);
+view(25, 45)
