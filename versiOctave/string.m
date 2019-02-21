@@ -1,0 +1,6 @@
+sprintf('%0.5g', (1+sqrt(5))/2)
+sprintf('%0.5g', 1/eps)
+sprintf('%15.5f', 1/eps)
+sprintf('%d', round(pi))
+sprintf('%s', 'hello')
+sprintf('The array is %dx%d.',2,3)
