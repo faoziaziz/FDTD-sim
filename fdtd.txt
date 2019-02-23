@@ -1,0 +1,4 @@
+octave:19> x2=123
+x2 =  123
+octave:20> diary on
+octave:21> diary off
