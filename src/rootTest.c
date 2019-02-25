@@ -4,7 +4,7 @@
 #include<math.h>
 #include<stdio.h>
 
-#define COUNT 23;
+int COUNT=23;
 
 int main(){
     float a = 2.0;
