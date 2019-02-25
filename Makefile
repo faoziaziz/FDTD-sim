@@ -1,5 +1,5 @@
 SRC=src
-CODE = FD1D
+CODE = oneEleventh
 
 kompile :
 	gcc -o simula.bin ${SRC}/${CODE}.c -lm
