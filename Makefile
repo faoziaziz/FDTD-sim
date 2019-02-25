@@ -1,5 +1,5 @@
 SRC=src
-CODE = oneEleventh
+CODE = rootTest
 
 kompile :
 	gcc -o simula.bin ${SRC}/${CODE}.c -lm
