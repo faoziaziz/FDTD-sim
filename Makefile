@@ -7,4 +7,4 @@ kompile :
 jalankan:
 	./simula.bin
 
-semua: kompile semua
+semua: kompile jalankan
